@@ -31,7 +31,7 @@ public:
 
         while (!q1.empty() && !q2.empty()) {
 
-            size = max(q1.size(), q2.size());
+            size = q1.size(); // both queues will have same size always
 
             for (int i = 0; i < size; i++) {
 
