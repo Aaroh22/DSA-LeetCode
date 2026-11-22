@@ -55,11 +55,13 @@ While solving problems, I focus on:
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aaroh22/DSA-LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Aaroh22/DSA-LeetCode/tree/master/0617-merge-two-binary-trees) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Aaroh22/DSA-LeetCode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aaroh22/DSA-LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Aaroh22/DSA-LeetCode/tree/master/0617-merge-two-binary-trees) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Aaroh22/DSA-LeetCode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -69,12 +71,19 @@ While solving problems, I focus on:
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aaroh22/DSA-LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Aaroh22/DSA-LeetCode/tree/master/0617-merge-two-binary-trees) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Aaroh22/DSA-LeetCode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Binary Lifting
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aaroh22/DSA-LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Aaroh22/DSA-LeetCode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Lowest Common Ancestor
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aaroh22/DSA-LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Aaroh22/DSA-LeetCode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
+## String
+|  |
+| ------- |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Aaroh22/DSA-LeetCode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 <!---LeetCode Topics End-->
